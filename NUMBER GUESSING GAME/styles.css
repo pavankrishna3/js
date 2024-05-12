@@ -1,0 +1,24 @@
+*{
+    margin:0;
+
+}
+
+#titleContainer{
+
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    
+}
+
+#guessContainer{
+
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+p{
+    padding:10px;
+}
