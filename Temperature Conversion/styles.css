@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(167, 229, 208);
+}
+
+form{
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    background-color: rgb(190, 255, 255);
+    padding:25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px hsla(0,0%,0%,0.7);
+}
+
+#textbox{
+    margin:10px;
+    text-align: center;
+    width: 50%;
+    border: 2px solid rgba(0, 0, 0, 0.809);
+    font-size: 1.5em;
+    border-radius: 5px;
+}
+
+label{
+    font-weight: bold;
+
+}
+
+button{
+   margin:10px; 
+   background-color: rgb(35, 206, 149);
+   border:none;
+   padding: 6px;
+   border-radius: 4px;
+}
+button:hover{
+    background-color: rgb(0, 58, 39);
+    color: white;
+}
+
+p{
+    color: red;
+}
